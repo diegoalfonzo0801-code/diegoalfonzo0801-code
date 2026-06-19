@@ -1,5 +1,5 @@
 # ¡Hola, soy Diego! 👋 
-### Desarrollador de Software enfocado en Python, IA y Arquitecturas Web Modernas.
+### Desarrollador Junior de Software enfocado en Python, IA y Arquitecturas Web Modernas.
 
 Bienvenido a mi portafolio en GitHub. Aquí encontrarás una selección de proyectos clave que demuestran mi experiencia en desarrollo de backend asíncrono, sistemas integrados con Inteligencia Artificial (RAG/LLMs), automatización de procesos e interfaces modernas.
 
