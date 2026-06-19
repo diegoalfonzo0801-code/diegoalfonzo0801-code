@@ -23,5 +23,4 @@ Bienvenido a mi portafolio en GitHub. Aquí encontrarás una selección de proye
 *   **IA & Automatización:** Gemini API, RAG, FAISS, Embeddings, Playwright, OpenCV.
 *   **Metodologías y Buenas Prácticas:** Arquitectura limpia, modularización (OOP), seguridad en APIs (JWT/RBAC), control de versiones (Git/GitHub).
 
----
-📫 **Contacto:** Si deseas ponerte en contacto conmigo o discutir alguna oportunidad laboral, siéntete libre de escribirme a través de mi [perfil de LinkedIn](https://www.linkedin.com/in/tu-usuario) o enviarme un correo a `tu-correo@ejemplo.com`.
+
