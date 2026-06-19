@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola, soy Diego! 👋 
+### Desarrollador de Software enfocado en Python, IA y Arquitecturas Web Modernas.
 
-<!--
-**diegoalfonzo0801-code/diegoalfonzo0801-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi portafolio en GitHub. Aquí encontrarás una selección de proyectos clave que demuestran mi experiencia en desarrollo de backend asíncrono, sistemas integrados con Inteligencia Artificial (RAG/LLMs), automatización de procesos e interfaces modernas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Stack Tecnológico | Enlace |
+| :--- | :--- | :--- | :--- |
+| **Comercializadora Morelo** | Sistema Full-stack de facturación e inventario con arquitectura SPA desacoplada y carga de inventario automatizada con IA. | FastAPI (Async), Angular 17, RxJS, SQLite (aiosqlite), JWT, Gemini 2.5 Flash | [Ver Código 🔗](https://github.com/diegoalfonzo0801-code/comercializadora-fastapi-angular) |
+| **Machinery RAG Chatbot** | Asistente de escritorio interactivo para soporte técnico de maquinaria. Utiliza una base de conocimientos local con búsqueda vectorial semántica y reproducción asíncrona de video instruccional. | Python, PyQt5, FAISS, SentenceTransformers, SQLite, OpenCV, Gemini 2.5 Flash | [Ver Código 🔗](https://github.com/diegoalfonzo0801-code/machinery-rag-chatbot) |
+| **Amazon Price Monitor** | Bot automatizado de extracción de precios de Amazon con alertas a canales de Telegram y un panel gráfico de control. Diseñado con técnicas de evasión de detección de scrapers. | Python, CustomTkinter, Playwright (Chromium), Matplotlib, Telegram API, Threading | [Ver Código 🔗](https://github.com/diegoalfonzo0801-code/amazon-price-monitor) |
+| **SAV - Auditor de Seguridad** | Herramienta modular de ciberseguridad defensiva para auditar la resistencia de credenciales de red y endpoints web. | Python, CustomTkinter, Impacket, Scapy, PostgreSQL, MySQL, SQL Server | [Ver Código 🔗](https://github.com/diegoalfonzo0801-code/sav-security-auditor) |
+
+---
+
+## 🛠️ Tecnologías y Habilidades
+
+*   **Backend:** Python (FastAPI, Flask, Django), SQL (PostgreSQL, MySQL, SQLite).
+*   **Frontend:** Angular, TypeScript, HTML5/CSS3.
+*   **IA & Automatización:** Gemini API, RAG, FAISS, Embeddings, Playwright, OpenCV.
+*   **Metodologías y Buenas Prácticas:** Arquitectura limpia, modularización (OOP), seguridad en APIs (JWT/RBAC), control de versiones (Git/GitHub).
+
+---
+📫 **Contacto:** Si deseas ponerte en contacto conmigo o discutir alguna oportunidad laboral, siéntete libre de escribirme a través de mi [perfil de LinkedIn](https://www.linkedin.com/in/tu-usuario) o enviarme un correo a `tu-correo@ejemplo.com`.
